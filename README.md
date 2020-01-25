@@ -1,7 +1,7 @@
 # Company-Email-Crawler
 
 ## Scrapy Architecture
-[alt text](https://docs.scrapy.org/en/latest/_images/scrapy_architecture_02.png)
+[Scrapy Architecture](scrapy_architecture_02.png)
 
 
 
