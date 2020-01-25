@@ -1,7 +1,7 @@
 # Company-Email-Crawler
 
 ## Scrapy Architecture
-![Scrapy Architecture](https://github.com/NiranjanMudhiraj/Company-Email-Crawler/blob/master/scrapy_architecture_02.png)
+![Scrapy Architecture](https://docs.scrapy.org/en/latest/_images/scrapy_architecture_02.png)
 
 
 
