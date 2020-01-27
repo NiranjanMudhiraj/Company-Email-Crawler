@@ -4,10 +4,6 @@
 ![Scrapy Architecture](https://docs.scrapy.org/en/latest/_images/scrapy_architecture_02.png)
 
 
-Installation:
-        
-        pip install Scrapy
-        pip install pandas
         
 Input:
         
