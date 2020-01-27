@@ -4,14 +4,18 @@
 ![Scrapy Architecture](https://docs.scrapy.org/en/latest/_images/scrapy_architecture_02.png)
 
 
-###Installation
-        pip install Scrapy
+Installation:
         
-###Input :
+        pip install Scrapy
+        pip install pandas
+        
+Input:
+        
         Name of any company
 
-###Output: 
-Email of the entered company
+Output:
+        
+        Email of the entered company
 
 Example:
 
